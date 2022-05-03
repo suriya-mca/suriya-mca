@@ -11,6 +11,6 @@
 > MySQL, PostgreSQL, MongoDB
 
 ### 🔧 Tools & Technologies
-> Git, Postmen, Linux, Docker, AWS
+> Git, Postman, Linux, Docker, AWS
 
 ### 📎 Full stack project - [link](https://blogcentral.pythonanywhere.com)
