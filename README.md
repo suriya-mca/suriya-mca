@@ -8,7 +8,7 @@ Hi there😃! I am a passionate software engineering enthusiast with a keen inte
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [suriyag1999@gmail.com](mailto:suriyag1999@gmail.com)
-* 🚀  I'm currently working on [Party hosting app](http://github.com/nixcodes/YAI)
+* 🚀  I'm currently working on [Party hosting app] [Closed Source]
 * 🧠  I'm learning Spring Boot, Docker
 * 🤝  I'm open to collaborating on FinTech Projects
 
