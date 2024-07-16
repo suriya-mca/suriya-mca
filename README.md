@@ -1,7 +1,7 @@
 Hi 👋 My name is Suriya Prakash
 ===============================
 
-Software Engineer Student
+Practicing Software Engineer
 -----------------
 
 Hi there😃! I am a passionate software engineering enthusiast with a keen interest in developing innovative and impactful solutions. With a constant drive to expand my knowledge and skills in areas that pique my interest, I consistently seek out new challenges and opportunities for growth. Love to work on projects that have real-world impact and see them come to fruition.
