@@ -1,7 +1,7 @@
 Hi 👋 My name is Suriya Prakash
 ===============================
 
-Practicing Engineer Student
+Practicing Software Engineering
 ---------------------------
 
 Passionate Software Engineer ready to build the future. Let's create something amazing together.
