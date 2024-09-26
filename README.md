@@ -3,9 +3,6 @@ Hi 👋 My name is Suriya Prakash
 
 Practicing Software Engineer
 ---------------------------
-
-Passionate Software Engineer ready to build the future. Let's create something amazing together.
-
 * 🌍  I'm based in I'm based in Chennai, India
 * ✉️  You can contact me at [suriyag1999@gmail.com](mailto:suriyag1999@gmail.com)
 * 🧠  I'm learning Spring Boot & Docker
