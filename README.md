@@ -8,7 +8,7 @@ Practicing Software Engineer
 * 🤝  Open to collaborating on projects that solve real-world problems
 
 <a href="https://www.github.com/suriya-mca" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/suriya-mca?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
+src="https://img.shields.io/github/followers/suriya-mca?logo=github&style=for-the-badge&color=48ec9b&labelColor=181824" /></a>
 
 ### Socials
 
@@ -18,5 +18,5 @@ src="https://img.shields.io/github/followers/suriya-mca?logo=github&style=for-th
 
 <!-- <a href="http://www.github.com/suriya-mca"><img src="https://github-readme-stats.vercel.app/api?username=suriya-mca&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="suriya-mca's GitHub stats" /></a> -->
 
-<a href="http://www.github.com/suriya-mca"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suriya-mca&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/suriya-mca"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suriya-mca&stroke=ffffff&background=181824&ring=48ec9b&fire=48ec9b&currStreakNum=ffffff&currStreakLabel=48ec9b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
